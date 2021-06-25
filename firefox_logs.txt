@@ -1,0 +1,6 @@
+1624586061620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PERFTE~1\\AppData\\Local\\Temp\\rust_mozprofile.58OnVTwuwupu"
+1624586062534	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\perftest3\\AppData\\Local\\Temp\\rust_mozprofile.58OnVTwuwupu\\search.json.mozlz4", (void 0)))
+1624586065967	Marionette	INFO	Listening on port 62993
+1624586066459	Marionette	WARN	TLS certificate errors will be ignored for this session
